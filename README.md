@@ -5,7 +5,6 @@
 Heidelberg, Baden-Württemberg, Deutschland  
 E-Mail: mail@enrico-ferro.de  
 LinkedIn: [www.linkedin.com/in/ferro-enrico](https://www.linkedin.com/in/ferro-enrico)  
-Telefon: [Kontakt auf Anfrage verfügbar]
 
 ## Berufliches Profil
 Als erfahrener DevOps Engineer mit über 14 Jahren Praxis bringe ich umfassende Expertise in der Entwicklung und Optimierung moderner Software- und Produktbereitstellungsprozesse mit. Meine Stärken liegen in der Architektur skalierbarer Cloud-Infrastrukturen, der Automatisierung von CI/CD-Pipelines und der Integration innovativer Technologien wie KI und GPU-Beschleunigung. Als zertifizierter Kanban Trainer (AKT) und agiler Coach habe ich Teams in Lean-Prinzipien und DevOps-Praktiken geschult, um Effizienz zu steigern und eine Kultur der kontinuierlichen Verbesserung zu fördern. Besonders in MLOps habe ich Prozesse für die Bereitstellung von Machine-Learning-Modellen optimiert. Diese Expertise bestätigt meine Fähigkeit, komplexe DevOps-Workflows in Cloud-Umgebungen (Windows & Linux) zu managen, Git-Versionierung zu steuern, Container-Technologien wie VMs, Docker, Conan und Artifactory zu verwalten sowie Software in C++ und CUDA zu entwickeln und zu verifizieren.
